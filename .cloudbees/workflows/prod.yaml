@@ -9,6 +9,6 @@ jobs:
     steps:
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
-          labels: sv-go-test-repo
-          artifact-id: 507f879d-1995-434c-b28f-6df753af12de
+          labels: Go-thu-oct-9
+          artifact-id: 596ffc7e-4685-42cb-808d-70d4c406a461
           target-environment: ecr-qa
